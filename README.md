@@ -9,7 +9,9 @@
 
 ## About this Course
 
-This course is a comprehensive interactive course designed to change your relationship with CSS. We will learn how the language really works and empower you to build robust user interfaces. The course offered a PPP (Purchasing Power Parity). Depending on where you are, the price of the course could be lower in some countries. I bought this course in Taiwan and it gave me a 52% discount. The package I chose was the ultimate package, and I only paid 💲USD 153 since I also asked for a student discount. If you are a student, you can get an additional 20% discount. In total, there are nine modules included, as follows:
+This course is a comprehensive interactive course designed to change your relationship with CSS. We will learn how the language really works and empower you to build robust user interfaces.
+
+The course offered a PPP (Purchasing Power Parity). Depending on where you are, the price of the course could be lower in some countries. I bought this course in Taiwan and it gave me a 52% discount. The package I chose was the ultimate package, and I only paid 💲USD 153 since I also asked for a student discount. If you are a student, you can get an additional 20% discount. In total, there are nine modules included, as follows:
 
 | Modules                        | Description                                                                                                                              | Code Demo                            |
 | ------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------ |
